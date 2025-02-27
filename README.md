@@ -1,8 +1,5 @@
 # 👋 Olá, eu sou o Kauan Gabriel!
 
-## 📊 Estatísticas
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanBotz&layout=compact&langs_count=4&theme=dark)
-
 ## 💻 Sobre mim
 Sou um desenvolvedor apaixonado por tecnologia e programação, buscando sempre evoluir e aprimorar minhas habilidades. Atualmente, curso **Sistemas de Informação na UNA** e meu próximo passo na área de TI é migrar para **Análise de Dados**.
 
@@ -11,6 +8,9 @@ Sou um desenvolvedor apaixonado por tecnologia e programação, buscando sempre 
 - ⚛️ **Front-end:** HTML, CSS, TailwindCss, React
 - 🛠 **Back-end & Banco de Dados:** Node.js, SQL, SQLite
 - 🔧 **Infraestrutura & Manutenção:** Redes, Servidores, Hardware, Impressoras
+
+## 📊 Estatísticas
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanBotz&layout=compact&langs_count=4&theme=dark)
 
 ## 🏆 Objetivos
 - 🎯 Trabalhar com o que eu gosto e sempre buscar aprender novas linguagens e tecnologias.
