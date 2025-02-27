@@ -12,16 +12,10 @@ Sou um desenvolvedor apaixonado por tecnologia e programação, buscando sempre 
 ## 📊 Estatísticas
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanBotz&layout=compact&langs_count=4&theme=dark)
 
-## 🏆 Objetivos
-- 🎯 Trabalhar com o que eu gosto e sempre buscar aprender novas linguagens e tecnologias.
-- 🎯 Fazer uma pós-graduação em **Forense Digital**.
-- 🎯 Estudar **Machine Learning, Big Data e C#** para expandir meu conhecimento.
-- 🎯 Um dia, fazer um intercâmbio para a Europa
-
 ## 📈 Projetos
 - **[Conservadora Rodrigues](https://github.com/KauanBotz/conservadora-rodrigues-website)** - Projeto de site para serviços de limpeza.
 - **[Outros projetos no GitHub](https://github.com/KauanBotz?tab=repositories)** - Confira mais projetos que desenvolvi e estou aprimorando!
 
 ## 📫 Contato
-📩 Email: **kauanclient@gmail.com**  
-💼 LinkedIn: **[linkedin.com/in/kauanvaaz](https://linkedin.com/in/kauanvaaz)**
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauanclient@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kauanvaaz)
