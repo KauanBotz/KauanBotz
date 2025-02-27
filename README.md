@@ -22,3 +22,6 @@ Sou um desenvolvedor apaixonado por tecnologia e programação, buscando sempre 
 ## 📫 Contato
 📩 Email: **kauanclient@gmail.com**  
 💼 LinkedIn: **[linkedin.com/in/kauanvaaz](https://linkedin.com/in/kauanvaaz)**
+
+## 📊 Estatísticas
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanBotz&layout=compact&langs_count=4)
