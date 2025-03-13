@@ -5,7 +5,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação, buscando sempre 
 
 ## 🚀 Tecnologias e Ferramentas
 - 🔹 **Linguagens:** JavaScript, Python
-- ⚛️ **Front-end:** HTML, CSS, TailwindCss, React
+- ⚛️ **Front-end:** HTML, CSS, React
 - 🛠 **Back-end & Banco de Dados:** Node.js, SQL, SQLite
 - 🔧 **Infraestrutura & Manutenção:** Redes, Servidores, Hardware, Impressoras
 
