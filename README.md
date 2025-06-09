@@ -4,7 +4,7 @@
 Sou um desenvolvedor apaixonado por tecnologia e programação, buscando sempre evoluir e aprimorar minhas habilidades. Atualmente, curso **Sistemas de Informação na UNA** e meu próximo passo na área de TI é migrar para **Análise de Dados**.
 
 ## 🚀 Tecnologias e Ferramentas
-- 🔹 **Linguagens:** JavaScript, Python
+- 🔹 **Linguagens:** JavaScript, Python, TypeScript
 - ⚛️ **Front-end:** HTML, CSS, React
 - 🛠 **Back-end & Banco de Dados:** Node.js, SQL, SQLite
 - 🔧 **Infraestrutura & Manutenção:** Redes, Servidores, Hardware, Impressoras
