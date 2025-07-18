@@ -13,7 +13,7 @@ Desenvolvedor Web e de Infraestrutura, apaixonado por tecnologia e inovação. T
 ## 📁 Projetos em Destaque
 - **[Ecofad](https://ecofad.com.br/)** – Landing page empresarial responsiva | [GitHub](https://github.com/KauanBotz/ecofad)  
 - **[Empório das Rações](https://emporiodasracoes.vercel.app/)** – Loja de ração com carrinho e pedidos via WhatsApp | [GitHub](https://github.com/KauanBotz/EmporioWeb)  
-- **[Portfólio básico](https://github.com/KauanBotz/portfolio)** – Site pessoal com fundamentos de HTML, CSS e JS
+- **[Portfólio básico](https://kauangabriel.vercel.app/)** – Site pessoal com fundamentos de HTML, CSS e JS | [GitHub](https://github.com/KauanBotz/portfolio) 
 
 ## 📫 Contato
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauanclient@gmail.com)  
