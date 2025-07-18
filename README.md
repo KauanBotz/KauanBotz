@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou o Kauan Gabriel!
 
+![Kauan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KauanBotz&show_icons=true&theme=radical)
+
 ## 💻 Sobre mim
 Sou um desenvolvedor apaixonado por tecnologia e programação, buscando sempre evoluir e aprimorar minhas habilidades. Atualmente, curso **Sistemas de Informação na UNA**
 
