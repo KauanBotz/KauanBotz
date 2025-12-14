@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou o Kauan Gabriel!
 
 ## 💻 Sobre mim
-Desenvolvedor Web e de Infraestrutura, apaixonado por tecnologia e inovação. Tenho experiência prática com soluções full stack usando Node.js, React e MySQL, além de foco em usabilidade, boas práticas, design simples e uso consciente de inteligência artificial no desenvolvimento de software. Atualmente curso **Sistemas de Informação na UNA**. E fora do trabalho, sou apaixonado por Fórmula 1 e Futebol.
+Desenvolvedor Web e de Infraestrutura, apaixonado por tecnologia e inovação. Tenho experiência prática com soluções full stack usando Node.js, React e MySQL, além de foco em usabilidade, boas práticas, design simples e uso consciente de inteligência artificial no desenvolvimento de software. Atualmente curso **Análise e Desenvolvimento de Sistema na Faculdade Cotemig**. E fora do trabalho, sou apaixonado por Fórmula 1 e Futebol.
 
 ## 🚀 Tecnologias e Ferramentas
-- 🔹 **Linguagens:** JavaScript, TypeScript, C#
+- 🔹 **Linguagens:** JavaScript, C#
 - ⚛️ **Front-end:** HTML, CSS, React, Tailwind CSS  
 - 🛠 **Back-end:** Node.js, Express  
 - 🗃️ **Banco de Dados:** MySQL  
