@@ -1,20 +1,18 @@
-# 👋 Olá, eu sou o Kauan Gabriel!
+# 👋 Hi, I’m Kauan Gabriel!
 
-## 💻 Sobre mim
-Desenvolvedor Web e de Infraestrutura, apaixonado por tecnologia e inovação. Tenho experiência prática com soluções full stack usando Node.js, React e MySQL, além de foco em usabilidade, boas práticas, design simples e uso consciente de inteligência artificial no desenvolvimento de software. Atualmente curso **Análise e Desenvolvimento de Sistema na Faculdade Cotemig**. E fora do trabalho, sou apaixonado por Fórmula 1 e Futebol.
+## 💻 About Me
 
-## 🚀 Tecnologias e Ferramentas
-- 🔹 **Linguagens:** JavaScript, C#
-- ⚛️ **Front-end:** HTML, CSS, React, Tailwind CSS  
-- 🛠 **Back-end:** Node.js, Express  
-- 🗃️ **Banco de Dados:** MySQL  
-- ☁️ **Outros:** Git, GitHub, APIs RESTful, Azure DevOps, Bizagi, Cloudflare  
+Web and Infrastructure Developer, passionate about technology and innovation. I have hands-on experience with full stack solutions using Node.js, React, and MySQL, with a strong focus on usability, best practices, clean design, and the responsible use of artificial intelligence in software development. I am currently studying **Systems Analysis and Development at Cotemig College**. Outside of work, I’m passionate about Formula 1 and Football (soccer).
 
-## 📁 Projetos em Destaque
-- **[Ecofad](https://ecofad.com.br/)** – Landing page empresarial responsiva | [GitHub](https://github.com/KauanBotz/ecofad)  
-- **[Empório das Rações](https://emporiodasracoes.vercel.app/)** – Loja de ração com carrinho e pedidos via WhatsApp | [GitHub](https://github.com/KauanBotz/EmporioWeb)  
-- **[Portfólio básico](https://kauangabriel.vercel.app/)** – Site pessoal com fundamentos de HTML, CSS e JS | [GitHub](https://github.com/KauanBotz/portfolio) 
+## 🚀 Technologies & Tools
 
-## 📫 Contato
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauanclient@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kauanvaaz)
+* 🔹 **Languages:** JavaScript, C#
+* ⚛️ **Front-end:** HTML, CSS, React, Tailwind CSS
+* 🛠 **Back-end:** Node.js, Express
+* 🗃️ **Databases:** MySQL
+* ☁️ **Others:** Git, GitHub, RESTful APIs, Azure DevOps, Bizagi, Cloudflare
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kauanclient@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/kauanvaaz)
